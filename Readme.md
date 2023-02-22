@@ -1,6 +1,6 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
-* Студент: [Лончук Вячеслав](https://up.htmlacademy.ru/react/2/user/809903).
+* Студент: [Alex]
 * Наставник: `Неизвестно`.
 
 ---
